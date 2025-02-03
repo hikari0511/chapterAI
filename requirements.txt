@@ -1,0 +1,13 @@
+# API依赖
+fastapi==0.104.1
+uvicorn==0.24.0
+openai>=1.0.0
+python-dotenv==1.0.0
+pydantic==2.5.2
+
+# 启动器依赖
+psutil==5.9.8
+rich==13.7.0
+
+# 打包依赖
+pyinstaller==6.3.0 
