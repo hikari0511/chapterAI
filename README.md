@@ -34,7 +34,7 @@ ChapterAI 是一个epub文件分章节分析工具，它能够帮助用户快速
 
 1. 克隆或下载本仓库：
    ```bash
-   git clone https://github.com/yourusername/chapterAI.git
+   git clone https://github.com/hikari0511/chapterAI.git
    cd chapterAI
    ```
 
