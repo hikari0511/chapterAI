@@ -1,6 +1,8 @@
 # ChapterAI - epub章节分析助手
 
 ChapterAI 是一个epub文件分章节分析工具，它能够帮助用户快速理解和提炼文章的核心内容。通过先进的AI技术，ChapterAI可以自动分析文章结构，提取关键观点，并生成清晰的可视化图表。
+![image](https://github.com/user-attachments/assets/4b4c47e7-0032-437e-bdde-cca36703e94c)
+
 
 ## 项目引用
 
@@ -34,7 +36,7 @@ ChapterAI 是一个epub文件分章节分析工具，它能够帮助用户快速
 
 1. 克隆或下载本仓库：
    ```bash
-   git clone https://github.com/yourusername/chapterAI.git
+   git clone https://github.com/hikari0511/chapterAI.git
    cd chapterAI
    ```
 
@@ -53,10 +55,9 @@ ChapterAI 是一个epub文件分章节分析工具，它能够帮助用户快速
 
 1. 双击运行 `start.bat`
 2. 等待服务启动，浏览器会自动打开到 http://localhost:8000
-3. 将文章内容粘贴到输入框
-4. 点击"分析"按钮
+3. 打开本地的epub文件
+4. 点击"AI总结"按钮
 5. 等待分析完成，查看结果
-6. 按任意键停止服务
 
 ## 配置说明
 
